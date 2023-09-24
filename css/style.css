@@ -28,3 +28,7 @@ h4{
   font-size: 190%;
   color:fuchsia;
 }
+.symbol{
+display: block;
+margin: 0, 200, 0, 0;
+}
