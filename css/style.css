@@ -1,25 +1,28 @@
 img{
-font-size: 125%
+font-size: 125%;
   }
 p{
-  font-size: 155%
+  font-size: 155%;
 }
 li{
-  font-size: 155%
+  font-size: 155%;
 }
 button{
-  font-size: 300%
+  font-size: 300%;
 }
 h1{
   font-size: 320%;
   color:blue;
 }
 h2{
-  font-size: 280%
+  font-size: 280%;
+  colour:red;
 }
 h3{
-  font-size: 230%
+  font-size: 230%;
+  colour:green;
 }
 h4{
-  font-size: 190%
+  font-size: 190%;
+  colour:pink;
 }
