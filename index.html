@@ -36,7 +36,7 @@
           alert("И это правильный ответ!");
           rightAnswers += 1;
         }else{
-          alert("Ответ не верный!");
+          alert("Ответ не верный! Правильный ответ: " + answers[times]);
         }
       }
       let procent = Math.round(100 / numberOfQuestions * rightAnswers)
