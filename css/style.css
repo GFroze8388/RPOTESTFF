@@ -8,9 +8,6 @@ p{
 li{
   font-size: 155%;
 }
-button{
-  font-size: 300%;
-  width: 100%;
 }
 h1{
   font-size: 320%;
@@ -37,3 +34,17 @@ text-decoration: underline;
   font-weight: 700;
 cursor: pointer;
 }
+button {
+  display: block;
+  margin: 30px auto;
+  width: 200px;
+  height: 50px;
+  cursor: pointer;
+  background: rgba(32, 216, 225, 0.7);
+  border-radius: 50px;
+  font-weight: 700;
+  color: white;
+  border: none;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+}
+
