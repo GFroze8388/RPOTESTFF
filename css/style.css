@@ -35,4 +35,5 @@ margin: 0px 200px 0px 0px;
 a:hover{
 text-decoration: underline;
   font-weight: 700;
+cursor: pointer
 }
