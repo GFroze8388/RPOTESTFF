@@ -34,6 +34,17 @@ text-decoration: underline;
   font-weight: 700;
 cursor: pointer;
 }
+
+body {
+  padding: 20px;
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.6),
+      rgba(255, 255, 255, 0.6)
+    ),
+    url(https://w.forfun.com/fetch/e2/e2528b1fa3eb783cc9260f1a1b367703.jpeg)
+      center/cover fixed;
+}
+
 button {
   margin: 80px 30px 0px 0px;
   width: 200px;
