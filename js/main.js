@@ -1,3 +1,5 @@
+
+alert("11")
 function start(){
   let playAgain = true;
   let numberOfQuestions;
